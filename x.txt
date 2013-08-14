@@ -1,0 +1,11 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: F018-7A01
+
+ Verzeichnis von C:\Weiser\git\test1
+
+14.08.2013  19:23    <DIR>          .
+14.08.2013  19:23    <DIR>          ..
+14.08.2013  19:23                 0 x.txt
+14.08.2013  19:13                 9 x1.txt
+               2 Datei(en),              9 Bytes
+               2 Verzeichnis(se), 111.024.017.408 Bytes frei
