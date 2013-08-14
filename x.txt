@@ -5,7 +5,8 @@
 
 14.08.2013  19:23    <DIR>          .
 14.08.2013  19:23    <DIR>          ..
-14.08.2013  19:23                 0 x.txt
+14.08.2013  19:32                 0 x.txt
 14.08.2013  19:13                 9 x1.txt
-               2 Datei(en),              9 Bytes
-               2 Verzeichnis(se), 111.024.017.408 Bytes frei
+14.08.2013  19:23               442 y.txt
+               3 Datei(en),            451 Bytes
+               2 Verzeichnis(se), 111.022.940.160 Bytes frei
