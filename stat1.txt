@@ -1,0 +1,100 @@
+commit 12df7fac42fc0dfba58b91f15ba5e8fc7816e9c5
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Thu Jan 30 18:05:47 2014 +0100
+
+    hhhhhhhhhh
+
+ x1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 18bd541e66162230628ca20edf4f850206768de6
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Thu Jan 30 13:19:44 2014 +0100
+
+    jkjk
+
+ subordner/xx.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3cae789ab0db02087b1e987634e5c5e31bd0e2db
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Thu Jan 30 12:23:33 2014 +0100
+
+    Nicht von Test-01-2014 übernehmen.
+
+ x.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+commit cd3b458e07bc9b0f934bddec28c0e15bda9bc2d8
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Thu Jan 30 12:12:46 2014 +0100
+
+    Probieren von Branches
+
+ .gitignore | 1 +
+ x.txt      | 3 ++-
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 35b110cebd946405f0d36f44ddae12b08692d7b6
+Author: Johann Weiser1 <johann.weiser@aon.at>
+Date:   Tue Aug 20 16:05:50 2013 +0200
+
+    Von Weiser1
+
+ x1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 650c93226296a0f1887c42e35c2339c2a95de766
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 20:37:30 2013 +0200
+
+    neuer Test
+
+ x1.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit ad00041208f8c25ceffbf01688c21ee46a51e2e9
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 20:07:41 2013 +0200
+
+    neuer Test
+
+ x.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 98655a78aa1ad35945e8cc94e2feaa0413f2200d
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 19:46:29 2013 +0200
+
+    nächste Version
+
+ x.txt | 13 +------------
+ 1 file changed, 1 insertion(+), 12 deletions(-)
+
+commit 9ec56d59df060bdf054d1c2c40135d7aaa552aab
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 19:33:18 2013 +0200
+
+    neue Version
+
+ x.txt | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+commit 5dcbdcd1491b59ef8b46fe585d5ebdfd71e47be8
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 19:25:01 2013 +0200
+
+    2. checkin
+
+ x.txt | 11 +++++++++++
+ y.txt | 12 ++++++++++++
+ 2 files changed, 23 insertions(+)
+
+commit 488f229b09d314c18f04b3d501944b82d126c532
+Author: Johann Weiser <johann.weiser@aon.at>
+Date:   Wed Aug 14 19:18:39 2013 +0200
+
+    Signed-off-by: Johann Weiser <johann.weiser@aon.at>
+
+ x1.txt | 1 +
+ 1 file changed, 1 insertion(+)
